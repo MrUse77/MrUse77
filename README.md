@@ -1,4 +1,4 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?MrUse77=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?}username=MrUse77)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MrUse77/MrUse77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
