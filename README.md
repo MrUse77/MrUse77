@@ -42,9 +42,9 @@ También tengo background fuerte en **Linux**, automatización de entorno y tool
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [agregá-tu-linkedin-acá](https://shorter.agusdoricich.dev/linkedin)
-- 🌐 Portfolio: [agregá-tu-portfolio-acá](https://agusdoricich.dev)
-- ✉️ Email: [agregá-tu-email-acá](mailto:me@agusdoricich.dev)
+- 💼 LinkedIn: [Agustin Doricich](https://shorter.agusdoricich.dev/linkedin)
+- 🌐 Portfolio: [agusdoricich.dev](https://agusdoricich.dev)
+- ✉️ Email: [Haceme click para mandarme un mail!](mailto:me@agusdoricich.dev)
 
 ---
 
