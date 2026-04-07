@@ -1,16 +1,51 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrUse77)](https://github.com/anuraghazra/github-readme-stats)
+# ¡Hola! Soy Agustín Doricich 👋
 
-<!--
-**MrUse77/MrUse77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer de Argentina 🇦🇷
 
-Here are some ideas to get you started:
+Me especializo en **arquitectura de APIs REST**, **Node.js/TypeScript** y **PostgreSQL**.  
+También tengo background fuerte en **Linux**, automatización de entorno y tooling de desarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mí
+
+- 🔭 Actualmente enfocado en backend y calidad de software
+- ⚙️ Me gusta diseñar sistemas mantenibles, no solo “que funcionen”
+- 🐧 Linux power-user (Arch + Hyprland + Neovim + Zellij)
+- 🎯 Busco proyectos donde pueda aportar arquitectura, criterio técnico y ownership
+
+---
+
+## 🛠️ Stack principal
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Proyectos destacados
+
+- **[dotfiles](https://github.com/MrUse77/dotfiles)**  
+  Entorno de desarrollo automatizado para Arch Linux + Hyprland.
+
+- **[HSR-Api](https://github.com/MrUse77/HSR-Api)**  
+  App fullstack para practicar arquitectura cliente-servidor y diseño de API REST.
+
+- **[Shorter-Url](https://github.com/MrUse77/Shorter-Url)**  
+  Servicio de acortador de URLs con dominio propio y routing configurable.
+
+---
+
+## 📫 Contacto
+
+- 💼 LinkedIn: [agregá-tu-linkedin-acá](https://shorter.agusdoricich.dev/linkedin)
+- 🌐 Portfolio: [agregá-tu-portfolio-acá](https://agusdoricich.dev)
+- ✉️ Email: [agregá-tu-email-acá](mailto:me@agusdoricich.dev)
+
+---
+
+
