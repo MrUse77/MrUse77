@@ -4,6 +4,17 @@ Backend Developer de Argentina 🇦🇷
 
 Me especializo en **arquitectura de APIs REST**, **Node.js/TypeScript** y **PostgreSQL**.  
 También tengo background fuerte en **Linux**, automatización de entorno y tooling de desarrollo.
+<div align="center">
+  <a href="https://agusdoricich.dev">
+    <img src="https://img.shields.io/badge/agusdoricich.dev-blue?style=for-the-badge&logo=archlinux&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/agustin-doricich">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contacto@agusdoricich">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-7025f7?style=for-the-badge&logo=proton&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
@@ -17,13 +28,15 @@ También tengo background fuerte en **Linux**, automatización de entorno y tool
 ---
 
 ## 🛠️ Stack principal
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/ArchLinux-blue?style=for-the-badge&logo=archlinux&logoColor=white" alt="Linux" />
+  
+</div>
 
 ---
 
@@ -37,15 +50,11 @@ También tengo background fuerte en **Linux**, automatización de entorno y tool
 
 - **[Shorter-Url](https://github.com/MrUse77/Shorter-Url)**  
   Servicio de acortador de URLs con dominio propio y routing configurable.
-
+  
 ---
+## Github stats
 
-## 📫 Contacto
-
-- 💼 LinkedIn: [Agustin Doricich](https://shorter.agusdoricich.dev/linkedin)
-- 🌐 Portfolio: [agusdoricich.dev](https://agusdoricich.dev)
-- ✉️ Email: [Haceme click para mandarme un mail!](mailto:me@agusdoricich.dev)
-
----
-
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MrUse77&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+</div>
 
