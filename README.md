@@ -4,7 +4,7 @@
 
 Me interesa construir software **mantenible**, entender los sistemas en profundidad y automatizar lo repetitivo.
 
-Actualmente trabajo principalmente con **TypeScript, Node.js, NestJS y PostgreSQL**, y también disfruto del ecosistema **Linux, tooling y automatización**.
+Actualmente trabajo en el desarrollo backend con **TypeScript (Node.js, Express)** y **Java (Spring Boot)** junto con **PostgreSQL**, y disfruto mucho del ecosistema **Linux, tooling y automatización**.
 
 <div align="center">
   <a href="https://agusdoricich.dev">
@@ -33,9 +33,11 @@ Actualmente trabajo principalmente con **TypeScript, Node.js, NestJS y PostgreSQ
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 
@@ -54,7 +56,6 @@ Actualmente trabajo principalmente con **TypeScript, Node.js, NestJS y PostgreSQ
 </div>
 
 ---
-
 ## 🚀 Proyectos
 
 ### 🌙 [MoonArch](https://github.com/MrUse77/MoonArch)
@@ -63,7 +64,7 @@ Un entorno personal para **Arch Linux + Hyprland** que evolucionó hacia un proy
 
 Incluye instalación automatizada, CLI propia, gestión de configuraciones, backups, rollback, temas y versionado.
 
-**Stack:** Linux · Hyprland · Go · Shell · Git
+**Stack:** Arch Linux · Hyprland · Shell Scripting · Git
 
 ### 🏐 VoleyTrack
 
@@ -71,7 +72,7 @@ Sistema para la gestión y seguimiento de **partidos, torneos y estadísticas de
 
 Es uno de mis proyectos principales actuales y me permite trabajar con modelado de dominio, backend y arquitectura de aplicaciones.
 
-**Stack:** TypeScript · Node.js · NestJS · TypeORM · PostgreSQL
+**Stack:** Java · Spring Boot · PostgreSQL
 
 > 🔒 Actualmente en desarrollo.
 
@@ -81,8 +82,9 @@ Mi portfolio personal, desarrollado con **Astro y TypeScript**.
 
 ### 🚄 [HSR-Api](https://github.com/MrUse77/HSR-Api)
 
-Proyecto full-stack centrado en la comunicación cliente-servidor y el diseño de APIs.
+Proyecto full-stack centrado en la comunicación cliente-servidor y el diseño de APIs REST.
 
+**Stack:** TypeScript · Node.js · Express
 ---
 
 ## 🔭 Actualmente
